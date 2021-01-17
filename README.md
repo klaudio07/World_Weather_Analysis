@@ -21,3 +21,11 @@ Practice analysis, visualization, and statistical skills by retrieving and analy
 - Perform linear regression, and add regression lines to scatter plots.
 
 - Create heatmaps, and add markers using the Google Maps API.
+
+# Deliverables
+
+Generate a set of 2,000 random latitudes and longitudes, retrieve the nearest city, and perform an API call with the OpenWeatherMap.
+
+Use input statements to retrieve customer weather preferences, then use those preferences to identify potential travel destinations and nearby hotels.
+
+Use the Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. Then, create a marker layer map with a pop-up marker for each city on the itinerary.
